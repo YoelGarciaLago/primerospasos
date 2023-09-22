@@ -7,3 +7,5 @@ Esto es un readme para aprender a usar git.
 * negrita
 
 <sup> texto chiquito </sup>
+
+- cursiva -
